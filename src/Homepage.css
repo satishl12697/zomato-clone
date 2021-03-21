@@ -1,0 +1,28 @@
+.Homepage {
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.Homepage__image {
+  width: 100%;
+  z-index: -1;
+}
+
+
+.Homepage__logo {
+    margin-left: 515px;
+    display: flex;
+    width: 25%;
+    z-index: 9999999;
+    margin-top: -438px;
+}
+
+.Homepage__text {
+    margin-left: 350px;
+    padding-top: 10px;
+    color: #fff;
+    font-size: 30px;
+    font-family: Okra,Helvetica,sans-serif;
+
+}
